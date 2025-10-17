@@ -2,7 +2,11 @@
 
 Main objective: 
 Simulating the idle control of a gasoline engine 
- 
+
+<p align="center">
+  <img src="https://github.com/Yoyiberto/Idle-motor/blob/a20158ff99cd59b7fc08e401a78040bc36dc17d2/idle_motor.png" alt="Robot_img" width="50%">
+</p>
+
 Steps
 1.	System analysis. For the idle control of a gasoline engine, what are the inputs and outputs of the system and control? Draw a general control diagram with all the units. What are the specifications of the control law? What are the criteria or indicators that should be used to specify the performance of the control?
 2.	System model. What are the physical and algebraic equations that allow the system to be simulated? Draw the architecture of such a model using block diagrams.
