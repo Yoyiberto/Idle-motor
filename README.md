@@ -46,5 +46,3 @@ Several more elaborate solutions can be implemented in response to the problem o
 •	Optimal control, LG, LQG, etc. which offers the advantage of explicitly integrating the trade-off between performance and loads
 •	A numerical optimization control (fmin, fmincon, fminsearch, etc. from Matlab) that offers the advantages and disadvantages of any numerical optimization approach.
 Depending on the progress of the work, in agreement with the teacher, you may study one or other of these proposals.
-
-Deliverable: A summary of the work done in the tutorial
